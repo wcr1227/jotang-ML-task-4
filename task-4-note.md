@@ -14,7 +14,6 @@ PS：笔记采取记录本人学习过程模式，含盖一些题目要求以外
 
 ## RNN 循环神经网络
 
-https://hcnke4ufanhb.feishu.cn/wiki/QTS8wRoD1iNhjkk0rZ7cUE8hnnm#KYAvd1ZUNol7s8xTj99caU14nhe这个视频看的很清楚
 
 专门处理序列数据（如文本、语音、时间序列）的神经网络结构,它的关键特点是：**具有“记忆”能力**,能够利用前一个时间步的信息来影响当前的输出
 
@@ -38,7 +37,7 @@ https://hcnke4ufanhb.feishu.cn/wiki/QTS8wRoD1iNhjkk0rZ7cUE8hnnm#KYAvd1ZUNol7s8xT
 
 ## LSTM 长短期记忆网络
 
-https://hcnke4ufanhb.feishu.cn/wiki/QTS8wRoD1iNhjkk0rZ7cUE8hnnm#IaJCdCMcAofzFJxWJJ8c2qpqnif这个视频看到很清楚
+
 
 它引入了专门的结构 记忆单元（Cell）和门控机制（Gates）
 
