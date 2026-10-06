@@ -10,9 +10,9 @@
 
 #### 3.记录论文阅读笔记 task-4-reading.md
 
-#### 4.论文原文及笔记 这个是pdf，但好像在github上显示不出来
+#### 4.论文原文及笔记 这个是pdf，但好像有时在github上显示不出来
 https://github.com/wcr1227/jotang-ML-task-4/blob/main/%5B%E8%AE%BA%E6%96%87%E5%8E%9F%E6%96%87%5DATTENTION_IS_ALL_YOU_NEED.pdf
-这是链接，应该要下载
+这是链接
 
 #### 5.README
 
